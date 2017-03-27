@@ -1,0 +1,4 @@
+Illustrating core.async issue ASYNC-190.
+
+Run 'boot dev' for automatic recompilation when files change, 'boot build-cljs'
+for one time compilation.

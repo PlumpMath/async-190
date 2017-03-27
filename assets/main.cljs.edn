@@ -1,0 +1,1 @@
+{:require [core-async-cljs-loop-bug.core]}
